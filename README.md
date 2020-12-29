@@ -1,4 +1,4 @@
-# EMBL-EBI-R-course-fot-scRNAseq
+# EMBL-EBI-R-course-for-scRNAseq
 Day 2 of the practical course for the scRNAseq analysis in R. 
 Prepared together with **Gerda Kildisiute**. 
 
